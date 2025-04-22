@@ -1,0 +1,39 @@
+.main{
+    display: flex;
+}
+.part1{
+    height: 600px;
+    width: 300px;
+    background-color: rgb(10, 147, 147);
+    color: white;
+
+}
+img{
+    height: 230px;
+    width: 230px;
+    border-radius: 150px;
+}
+.name{
+   
+    position: relative;
+    width:1000px;
+    background-color: rgb(229, 149, 162);
+}
+.Acadamic_details{
+    margin-left: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
